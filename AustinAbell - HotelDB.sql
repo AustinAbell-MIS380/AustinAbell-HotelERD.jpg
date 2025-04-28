@@ -1,0 +1,2 @@
+CREATE DATABASE AustinAbellHotelDB;
+USE AustinAbellHotelDB
