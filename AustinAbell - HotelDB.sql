@@ -1,2 +1,2 @@
-CREATE DATABASE AustinAbellHotelDB;
-USE AustinAbellHotelDB
+CREATE DATABASE AustinAbellHotelDB
+USE AustinAbellHotelDB;
